@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0179-largest-number) |
 | [0504-base-7](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0504-base-7) |
 ## Linked List
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
@@ -70,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
