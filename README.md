@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0504-base-7) |
+| [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
