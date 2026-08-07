@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
