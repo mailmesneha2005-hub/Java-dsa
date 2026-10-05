@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0334-increasing-triplet-subsequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
 ## String
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
