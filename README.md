@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
