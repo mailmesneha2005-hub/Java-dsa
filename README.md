@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mailmesneha2005-hub/Java-dsa/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
